@@ -2,7 +2,7 @@
 
 Cette application est créé en utilisant  Material UI, Charts.js, React Hooks, la récupération de données API, le tout dans React JS!
 
-### [Live Site](https://tracker-app-288113.ew.r.appspot.com/)
+### [Lien du Site](https://tracker-app-288113.ew.r.appspot.com/)
 
 ![](App.png)
 
