@@ -1,6 +1,10 @@
  body{
 
+<<<<<<< HEAD
 background: rgb(228, 228, 241);
+=======
+background : rgb(228, 228, 241);
+>>>>>>> fffb5801c22ee14946b601bb9849f2d4b3a105c6
 height: 100%;
 background-position: top center;
 background-size: cover;
@@ -25,7 +29,11 @@ overflow-x: hidden;
     font-size: 45px;
     text-align: center;
     margin-bottom: 50px;
+<<<<<<< HEAD
     color: rgb(72, 72, 235);
+=======
+    color:rgb(72, 72, 235);
+>>>>>>> fffb5801c22ee14946b601bb9849f2d4b3a105c6
    
  }
 
