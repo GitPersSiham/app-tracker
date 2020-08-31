@@ -17,16 +17,4 @@ Pour lancer l'application il suffit juste de lancer npm i ensuite npm start
 
 Cette application est créé en utilisant  Material UI, Charts.js, React Hooks, la récupération de données API, le tout dans React JS!
 
-### [Live Site]()
 
-![](resultat.png)
-
-## Introduction
-
-Cette application est créé en utilisant  Material UI, Charts.js, 
-
-React Hooks, la récupération de données API, le tout dans React JS!
-
-API utlisé :  https://covid19.mathdro.id/api
-
-Pour lancer l'application il suffit juste de lancer npm i ensuite npm start
