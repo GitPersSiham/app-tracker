@@ -4,7 +4,7 @@ Cette application est créé en utilisant  Material UI, Charts.js, React Hooks, 
 
 ### [Live Site]()
 
-![COVID-19 Tracker]()
+![](resultat.png)
 
 ## Introduction
 
